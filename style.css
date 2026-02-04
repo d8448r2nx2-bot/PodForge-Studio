@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #222;
+}
+
+header {
+  background: #222;
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.btn {
+  background: #ff4500;
+  color: #fff;
+  padding: 12px 20px;
+  text-decoration: none;
+  margin-top: 15px;
+  display: inline-block;
+}
+
+.package {
+  border: 1px solid #ddd;
+  margin: 20px;
+  padding: 15px;
+}
+
+.samples audio {
+  margin-bottom: 10px;
+}
+
+form label {
+  display: block;
+  margin: 10px 0 5px;
+}
+
+form input, form textarea {
+  width: 100%;
+  padding: 8px;
+}
